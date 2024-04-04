@@ -1,3 +1,4 @@
+# Ninjatools
 
 ### ⚠ Notice! We've rebranded from OBS.Ninja to VDO.Ninja - all else is staying the same ✨
 
